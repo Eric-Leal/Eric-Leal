@@ -2,7 +2,7 @@
 <tr>
 <td>
 <a href="https://github.com/Eric-Leal/github-readme-stats">
-<img height=250 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eric-Leal&layout=compact&theme=github_dark&hide_border=true" />
+<img height=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eric-Leal&layout=compact&theme=github_dark&hide_border=true" />
 </a>
 </td>
 <td>
